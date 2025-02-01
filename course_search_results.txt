@@ -1,0 +1,317 @@
+Found in Packet: Ether / IP / TCP 172.16.133.29:60321 > 216.52.242.80:http A / Raw
+Packet Data: GET /profile/mappers?id=191687907&locale=&snapshotID=&authToken=&authType=&x-a=profile_v2_summary,profile_v2_positions,profile_v2_educations,profile_v2_honors,profile_v2_courses,profile_v2_languages,profile_v2_test_scores,profile_v2_certifications,profile_v2_organizations,profile_v2_patents,profile_v2_publications,profile_v2_volunteering,profile_v2_projects,profile_v2_additional_info,profile_v2_skills,profile_v2_contact_info,profile_v2_badge,profile_v2_location,profile_v2_headline,profile_v2_name,profile_v2_endorsements,profile_v2_toolbox_top&rnd=1361916162472 HTTP/1.1
+Host: www.linkedin.com
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+X-IsAJAXForm: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+Accept: */*
+Referer: http://www.linkedin.com/profile/view?id=191687907&trk=tab_pro
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: bcookie="v=2&bdfe6624-181b-410d-bb6b-a648bb642886"; __qca=P0-1319279329-1349268600749; visit="v=1&M"; ebNewBandWidth_.www.linkedin.com=2622%3A1355750147385; _chartbeat2=3ajqm2u7ggh4k5if.1354567416135.1361831144281.00000000000001; X-LI-IDC=C1; L1c=557a479; L1e=611202a6; L1l=38c06519; _leo_profile="u=191687907"; JSESSIONID="ajax:1544823671546183485"; __utma=23068709.2076664408.1361833738.1361904102.1361911396.7; __utmc=23068709; __utmz=23068709.13618
+
+Found in Packet: Ether / IP / TCP 216.52.242.80:http > 172.16.133.29:60321 A / Raw
+Packet Data: ile/v2/embed/education_section,profile_v2_honors=tl/apps/profile/v2/embed/honors_section,profile_v2_toolbox_top=tl/apps/profile/v2/embed/toolbox_top,profile_v2_volunteering=tl/apps/profile/v2/embed/volunteering_section,profile_v2_contact_info=tl/apps/profile/v2/embed/contact_info,profile_v2_positions=tl/apps/profile/v2/embed/experience_section,profile_v2_summary=tl/apps/profile/v2/embed/summary_section,profile_v2_headline=tl/apps/profile/v2/embed/headline,profile_v2_location=tl/apps/profile/v2/embed/location,profile_v2_languages=tl/apps/profile/v2/embed/languages_section,profile_v2_organizations=tl/apps/profile/v2/embed/organizations_section,profile_v2_patents=tl/apps/profile/v2/embed/patents_section,profile_v2_certifications=tl/apps/profile/v2/embed/certification_section,profile_v2_courses=tl/apps/profile/v2/embed/courses_section,profile_v2_additional_info=tl/apps/profile/v2/embed/additional_info_section,profile_v2_skills=tl/apps/profile/v2/embed/skills_section
+X-FS-Batch-Status: profile_v2_badge=200,profile_v2_endorsements=200,profile_v2_publications=200,profile_v2_test_scores=200,profile_v2_name=200,profile_v2_projects=200,profile_v2_educations=200,profile_v2_honors=200,profile_v2_toolbox_top=200,profile_v2_volunteering=200,profile_v2_contact_info=200,profile_v2_headline=200,profile_v2_location=200,profile_v2_summary=200,profile_v2_positions=200,profile_v2_languages=200,profile_v2_organizations=200,profile_v2_courses=200,profile_v2_
+
+Found in Packet: Ether / IP / TCP 15.193.0.234:http > 172.16.133.163:3521 A / Raw
+Packet Data: reatments quicker than ever before. Generally speaking, productivity has improved by up to two or three times.”
+
+-Cheon-Gueon Kim, IT manager, ASAN Medical Center</Quote>
+	</Prod>
+	<Prod>
+		<Name>Smoltelecom selects core-to-edge HP networking solution for 10Gb fixed-mobile convergence Metropolitan Area Network</Name>
+		<ID>688</ID>
+		<CType>2</CType>
+		<Cat>1,3,11,13,16</Cat>
+		<SubCat>n/a</SubCat>
+		<SubDisp>n/a</SubDisp>
+		<Language>1</Language>
+		<Format>1</Format>
+		<FType>1</FType>
+		<FSize>1.9 MB</FSize>
+		<Date>Oct 2010</Date>
+		<Owner>Hindle, Peter</Owner>
+		<PubID>4AA2-2666ENW</PubID>
+		<URL>http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA2-2666ENW.pdf</URL>
+		<Quote>“HP products have helped reduce costs up to 30% over the equivalent Cisco solution. We have seen a good return on our investment.”
+
+-Arkady Komarovsky, first deputy general director, Smoltelecom</Quote>
+	</Prod>
+	<Prod>
+		<Name>Reliable networking is par for the course at the Ryder Cup with the help of HP Networking</Name>
+		<ID>689</ID>
+		<CType>2</CType>
+		<Cat>2,8,12,13,16,28</Cat>
+		<SubCat>n/a</SubCat>
+		<SubDisp>n/a</SubDisp>
+		<Language>1</Language>
+		<Format>1</Format>
+		<FType>1</FType>
+		<FSize>962 KB</FSize>
+		<Date>Jan 20
+
+Found in Packet: Ether / IP / TCP 15.193.0.234:http > 172.16.133.163:3525 A / Raw
+Packet Data: reatments quicker than ever before. Generally speaking, productivity has improved by up to two or three times.”
+
+-Cheon-Gueon Kim, IT manager, ASAN Medical Center</Quote>
+	</Prod>
+	<Prod>
+		<Name>Smoltelecom selects core-to-edge HP networking solution for 10Gb fixed-mobile convergence Metropolitan Area Network</Name>
+		<ID>688</ID>
+		<CType>2</CType>
+		<Cat>1,3,11,13,16</Cat>
+		<SubCat>n/a</SubCat>
+		<SubDisp>n/a</SubDisp>
+		<Language>1</Language>
+		<Format>1</Format>
+		<FType>1</FType>
+		<FSize>1.9 MB</FSize>
+		<Date>Oct 2010</Date>
+		<Owner>Hindle, Peter</Owner>
+		<PubID>4AA2-2666ENW</PubID>
+		<URL>http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA2-2666ENW.pdf</URL>
+		<Quote>“HP products have helped reduce costs up to 30% over the equivalent Cisco solution. We have seen a good return on our investment.”
+
+-Arkady Komarovsky, first deputy general director, Smoltelecom</Quote>
+	</Prod>
+	<Prod>
+		<Name>Reliable networking is par for the course at the Ryder Cup with the help of HP Networking</Name>
+		<ID>689</ID>
+		<CType>2</CType>
+		<Cat>2,8,12,13,16,28</Cat>
+		<SubCat>n/a</SubCat>
+		<SubDisp>n/a</SubDisp>
+		<Language>1</Language>
+		<Format>1</Format>
+		<FType>1</FType>
+		<FSize>962 KB</FSize>
+		<Date>Jan 20
+
+Found in Packet: Ether / IP / TCP 15.192.136.170:http > 172.16.133.163:3612 A / Raw
+Packet Data: ns</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/index.aspx">Overview</a>
+              </div>
+            </div>
+
+			<div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/training/all.aspx" target="_blank">All courses</a>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/certifications/index.aspx" target="_blank">Certifications</a>
+              </div>
+            </div>
+
+<div class="contentDivider"></div>
+
+            <h4>Key resources</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">Networking product portfolio</a>
+                 <span class="icn_dta item-ico"><a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">10.8 MB</a></span>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="http://h20195.www2.hp.com/v2/GetDocument.aspx?d
+
+Found in Packet: Ether / IP / TCP 15.192.136.170:http > 172.16.133.163:3612 A / Raw
+Packet Data: ical resources</a>
+      </div>
+    </div>
+
+
+<div class="contentDivider"></div>
+-->
+
+    <h4>HP ExpertOne Training & Certifications</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/index.aspx">Overview</a>
+              </div>
+            </div>
+
+			<div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/training/all.aspx" target="_blank">All courses</a>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/certifications/index.aspx" target="_blank">Certifications</a>
+              </div>
+            </div>
+
+<div class="contentDivider"></div>
+
+            <h4>Key resources</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">Networking product portfolio</a>
+                 <span class="icn_dta item-ico"><a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">10.8 MB</a></span>
+              </div>
+            </div>
+
+      
+
+Found in Packet: Ether / IP / TCP 15.192.136.170:http > 172.16.133.163:3612 A / Raw
+Packet Data: ef="http://h17007.www1.hp.com/us/en/products/wireless/selector/index.aspx">Wireless selector</a>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/products/configurator/index.aspx">Networking product configurator</a>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/library/index.aspx">Find all business and technical resources</a>
+      </div>
+    </div>
+
+
+<div class="contentDivider"></div>
+-->
+
+    <h4>HP ExpertOne Training & Certifications</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/index.aspx">Overview</a>
+              </div>
+            </div>
+
+			<div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/training/all.aspx" target="_blank">All courses</a>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/certifications/index.aspx" target="_blank">Certifications</a>
+              </div>
+            </div>
+
+<
+
+Found in Packet: Ether / IP / TCP 15.192.136.170:http > 172.16.133.163:3612 A / Raw
+Packet Data:      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/products/switches/selector/index.aspx">Switch selector</a>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/products/wireless/selector/index.aspx">Wireless selector</a>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/products/configurator/index.aspx">Networking product configurator</a>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-txt">
+         <a href="http://h17007.www1.hp.com/us/en/library/index.aspx">Find all business and technical resources</a>
+      </div>
+    </div>
+
+
+<div class="contentDivider"></div>
+-->
+
+    <h4>HP ExpertOne Training & Certifications</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/index.aspx">Overview</a>
+              </div>
+            </div>
+
+			<div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/training/all.aspx" target="_blank">All courses</a>
+              </div>
+            </div>
+
+Found in Packet: Ether / IP / TCP 15.192.136.170:http > 172.16.133.163:3612 A / Raw
+Packet Data:     <div class="item-txt">
+                 <a href="/us/en/networking/training/index.aspx">Overview</a>
+              </div>
+            </div>
+
+			<div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/training/all.aspx" target="_blank">All courses</a>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="/us/en/networking/training/certifications/index.aspx" target="_blank">Certifications</a>
+              </div>
+            </div>
+
+<div class="contentDivider"></div>
+
+            <h4>Key resources</h4>
+            <div class="item">
+              <div class="item-txt">
+                 <a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">Networking product portfolio</a>
+                 <span class="icn_dta item-ico"><a href="http://h20195.www2.hp.com/V2/GetPDF.aspx/4AA1-7037ENW.pdf" target="_blank">10.8 MB</a></span>
+              </div>
+            </div>
+
+            <div class="item">
+              <div class="item-txt">
+                 <a href="http://h20195.www2.hp.com/v2/GetDocument.aspx?docname=4AA1-4855ENW&cc=en&lc=en" target="_blank">Fl
+
+Found in Packet: Ether / IP / TCP 74.63.51.79:http > 172.16.133.93:61125 A / Raw
+Packet Data: bs Up</a>
+	                		<a href="#" class="down">Thumbs Down</a>
+	                		<div class="clear"></div>
+	                	</div>
+	                </div>
+	                <div class="right li_r">
+	                	<div class="meta"><a id="comment-197465"></a>by bcros003 on February 26, 2013 at 4:43 pm</div>
+	                	<div class="top"></div>
+	                	<div class="btm">Of COURSE he's black..</div>
+	                	<div class="ratings">
+	                		<ul>
+	                			<li class="up">Up: <span>2</span></li>
+	                			<li class="down">Down: <span>0</span></li>
+	                		</ul>
+	                		<div class="clear"></div>
+	                	</div>
+	                </div>
+	                <div class="clear"></div>
+	            </li>
+	    	
+	    		
+	    		
+	    		<li id="li-comment-197466-3" data-id="8" data-date="1361915028">
+	                <div class="left li_l">
+	                	<div class="avatar_container"><img alt='' src='http://1.gravatar.com/avatar/976d498a9c1f5492a83ea93f790fdc87?s=44&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D44&amp;r=R' class='avatar avatar-44 photo' height='44' width='44' /></div>
+	                	<div class="comment_rate">
+	                		<a href="#" class="up">Thumbs Up</a>
+	                		<a href="#" class="down">Thumbs Down</a>
+	                		<div class="clear"></div>
+	                	</div>
+	         
+
+Found in Packet: Ether / IP / TCP 10.0.137.79:4321 > 10.1.12.123:1234 S / Raw
+Packet Data: course = Embedded_system
+

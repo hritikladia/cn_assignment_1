@@ -1,0 +1,12 @@
+Total bytes transferred: 324998397 bytes (309.94 MB)
+Total packets: 805995
+Min packet size: 54 bytes
+Max packet size: 1514 bytes
+Average packet size: 403.23 bytes
+Unique Source-Destination Pairs: 6202
+Top Source-Destination Pair (by data transferred): ('172.16.133.95', 49358, '157.56.240.102', 443) (17342229 bytes)
+
+PCAP Specific Questions:
+Q1: Unique connections to IMS Server: 1
+Q3: Total data transferred over port 4321: 1620 bytes
+Q4: Total occurrences of 'SuperUser': 69
